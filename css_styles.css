@@ -1,0 +1,71 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe6e6;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff6666;
+    color: white;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    padding: 20px;
+}
+
+.interactive {
+    background-color: #ffcccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #ff6666;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e65c5c;
+}
+
+.valentine-image {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.personal-message {
+    font-size: 1.2em;
+    color: #ff6666;
+    margin: 20px 0;
+}
+
+.option {
+    margin: 20px 0;
+}
+
+.option-image {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
